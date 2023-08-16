@@ -1,0 +1,14 @@
+studentmajor='s' - SCIENCE
+studentmajor='l' - HUMANITIES
+
+majorclassgroup=SCIENCE, MATH, SCIENCE
+majorclassgroup=HUMANITIES, JAPANESE, GEOGRAPHY/HISTORY
+
+class=ENGLISH
+class=MATH
+class=SCIENCE
+class=JAPANESE
+class=GEOGRAPHY/HISTORY
+
+totalPoints=350
+majorPoints=160
